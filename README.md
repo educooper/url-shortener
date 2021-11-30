@@ -28,7 +28,9 @@ Project created with nodejs and mongodb for management and register url shortene
 
 ## :rocket: Technologies ##
 
-- 
+- [Git](https://git-scm.com) 
+- [node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
 
 ## :white_check_mark: Requirements ##
 
